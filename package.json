@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "test-library",
   "description": "Testing npm library",
   "version": "1.0.0",
   "main": "./dist/index.js",
@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://google.com",
   "repository": {
-    "url": "https://github.com/TruenoElfico/npm-library.git"
+    "url": "git+https://github.com/TruenoElfico/npm-library.git"
   },
   "scripts": {
     "build": "tsup"
