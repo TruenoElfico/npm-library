@@ -1,0 +1,1 @@
+const { sayHello } = require('say-hello-functions');
